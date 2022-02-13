@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<!-- for badges i used https://shields.io/ -->
+<!-- For badges I used https://shields.io/ -->
 <div id="badges">
   <a href="https://www.linkedin.com/in/sakib-hussain-a071a11b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
