@@ -11,4 +11,4 @@
   </a>
 </div>
 
-<img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange">
+<img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange&style=flat-square">
