@@ -15,3 +15,8 @@
 <img src = "https://komarev.com/ghpvc/?username=saqib40&color=orange&style=flat-square" alt ="Profile Views">
 
 ## About Me :
+
+- I am a Frontend Web Developer learning React at the moment
+
+- I also write, mostly fiction but sometimes blogs about Web Dev 
+
