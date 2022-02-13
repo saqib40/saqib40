@@ -27,4 +27,7 @@
   <a href="https://www.quora.com/profile/Sakib-Hussain-67">
     <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://hussainsakib44.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
