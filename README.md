@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<h1> Hii I am Saqib rightnow learning </h1>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
