@@ -21,16 +21,10 @@
   <a href="https://www.linkedin.com/in/sakib-hussain-a071a11b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.quora.com/profile/Sakib-Hussain-67">
-    <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
-  </a>
   <a href="https://hussainsakib44.medium.com/">
     <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://codepen.io/_sakibhussain">
     <img src="https://img.shields.io/badge/codepen-purple?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
-  <a href="https://www.goodreads.com/user/show/134578009-sakib-hussain">
-    <img src="https://img.shields.io/badge/Goodreads-grey?style=for-the-badge&logo=goodreads&logoColor=white" alt="goodreads Badge"/>
   </a>
 </div>
