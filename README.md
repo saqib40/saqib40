@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- I write jokes, fiction & code
+I write jokes, fiction & code
 
 ## Skills :
 <p align="left">
@@ -38,13 +38,12 @@
 </p>
 
 ## My Stats :
-
+<!--
 <a href="http://www.github.com/saqib40">
   <img src="https://github-readme-stats.vercel.app/api?username=saqib40&show_icons=true&hide=&count_private=true&title_color=ebdbb2&text_color=ebdbb2&icon_color=83a598&bg_color=282828&hide_border=true&show_icons=true&theme=gruvbox" alt="saqib40's GitHub stats" />
 </a>
-
+-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saqib40&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib40&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
