@@ -18,7 +18,4 @@ I write jokes, fiction & code
   <a href="https://hussainsakib44.medium.com/">
     <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  <a href="https://codepen.io/_sakibhussain">
-    <img src="https://img.shields.io/badge/codepen-purple?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
 </div>
