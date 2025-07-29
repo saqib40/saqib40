@@ -6,7 +6,7 @@
 
 I write jokes, fiction & code
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saqib40&theme=gruvbox&layout=compact&langs_count=14" alt="Saqib's Top Languages" style="width: 400px;" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib40&layout=compact)
 
 ## Me On Internet:
 
